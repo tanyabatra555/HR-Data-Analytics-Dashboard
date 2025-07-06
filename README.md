@@ -5,19 +5,19 @@ The objective of this project is to analyze employee attrition trends and key HR
 
 
 # KPIs (Key Performance Indicators)
-Count of Employees
-Total Attrition Count
-Attrition Rate (%)
-Average Age of Employees
-Average Salary
-Average Years at Company
-Attrition by Gender (10+ Years at Company)
-Attrition by Education
-Attrition by Age Group
-Attrition by Salary Slab
-Attrition by Job Role
-Attrition by Tenure (Years at Company)
-Job Satisfaction by Job Role
+- Count of Employees
+- Total Attrition Count
+- Attrition Rate (%)
+- Average Age of Employees
+- Average Salary
+- Average Years at Company
+- Attrition by Gender (10+ Years at Company)
+- Attrition by Education
+- Attrition by Age Group
+- Attrition by Salary Slab
+- Attrition by Job Role
+- Attrition by Tenure (Years at Company)
+- Job Satisfaction by Job Role
 
 # Dataset
 - <a href="https://github.com/tanyabatra555/HR-Data-Analytics-Dashboard/blob/main/HR_Analytics.csv"> HR_Dataset </a>
