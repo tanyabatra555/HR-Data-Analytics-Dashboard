@@ -23,7 +23,7 @@ Job Satisfaction by Job Role
 - <a href="https://github.com/tanyabatra555/HR-Data-Analytics-Dashboard/blob/main/HR_Analytics.csv"> HR_Dataset </a>
 
 # PowerBI Project
-- <a href="https://github.com/tanyabatra555/HR-Data-Analytics-Dashboard/blob/main/HR_Analytics_PowerBI_Dashboard.JPG"> </a>
+- <a href="https://github.com/tanyabatra555/HR-Data-Analytics-Dashboard/blob/main/HR_Analytics_PowerBI_Dashboard.JPG"> HR_PowerBI_Dashboard </a>
 
 # Process
 Data Collection
