@@ -24,6 +24,7 @@ The objective of this project is to analyze employee attrition trends and key HR
 
 # PowerBI Project
 - <a href="https://github.com/tanyabatra555/HR-Data-Analytics-Dashboard/blob/main/HR_Analytics_PowerBI_Dashboard.JPG"> HR_PowerBI_Dashboard </a>
+
 ![HR_Analytics_PowerBI_Dashboard](https://github.com/user-attachments/assets/db337c7a-566d-4dbc-933d-7a8b87c1dbaf)
 
 # Process
